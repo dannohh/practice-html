@@ -1,0 +1,23 @@
+{
+  "name": "html-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scripts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dannohh/practice-html.git"
+  },
+  "keywords": [],
+  "author": "dannohh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dannohh/practice-html/issues"
+  },
+  "devDependencies": {
+    "tone": "^14.7.58"
+  },
+  "homepage": "https://github.com/dannohh/practice-html#readme"
+}
