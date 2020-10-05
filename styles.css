@@ -1,0 +1,63 @@
+body {
+  background-color: rgba(204, 0, 0, 0.767);
+  color: white;
+}
+
+p {
+  font-family: "Secular One", sans-serif;
+  line-height: 1.6em;
+}
+
+.container {
+  background: rgb(19, 19, 19);
+  color: gray;
+  display: flex;
+  border: none;
+  border-radius: 20px;
+}
+
+h1 {
+  font-family: "Sansita Swashed", cursive;
+}
+
+h2 {
+  margin-left: 10vh;
+}
+
+h3 {
+  border: 5px red solid;
+  margin-left: 10vh;
+}
+
+.my-form {
+  padding: 20px;
+}
+
+.my-form .form-group {
+  padding: 0.25em;
+}
+
+.my-form label {
+  display: block;
+}
+
+.my-form input {
+  width: 100%;
+  padding: 8px;
+}
+
+#map {
+  height: 400px;
+  width: 200px;
+  background: black;
+}
+
+p span {
+  display: none;
+}
+
+p:hover span {
+  display: inline-block;
+  border-radius: 20px;
+  color: black;
+}
